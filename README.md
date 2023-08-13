@@ -1,1 +1,2 @@
-# HCCG
+# HCCG 
+## Color Generator
